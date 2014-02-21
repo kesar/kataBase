@@ -1,0 +1,4 @@
+kataBase
+========
+
+basic for katas
